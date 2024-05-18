@@ -1,4 +1,3 @@
-<p>RM550889</p>
 <h1>Adventure Atlas</h1>
 <h2>Sobre o Projeto</h2>
   <p>O Adventure Atlas é um projeto desenvolvido utilizando as tecnologias C#, HTML, CSS e Bootstrap. Foi criado com o intuito de compartilhar experiências de viagem, inspirar outros a explorar o mundo e promover o turismo responsável e sustentável.</p>
